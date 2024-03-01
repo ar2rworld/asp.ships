@@ -1,0 +1,6 @@
+@WebApiWithReact.Server_HostAddress = http://localhost:5167
+
+GET {{WebApiWithReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
